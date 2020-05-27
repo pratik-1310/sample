@@ -1,3 +1,3 @@
 # sample
 test project to learn git
-MASTER
+MASTER UPDATE 1
